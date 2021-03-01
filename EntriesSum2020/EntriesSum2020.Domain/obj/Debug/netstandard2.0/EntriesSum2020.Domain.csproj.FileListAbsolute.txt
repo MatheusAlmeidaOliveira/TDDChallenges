@@ -1,0 +1,9 @@
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\bin\Debug\netstandard2.0\EntriesSum2020.Domain.deps.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\bin\Debug\netstandard2.0\EntriesSum2020.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\bin\Debug\netstandard2.0\EntriesSum2020.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\obj\Debug\netstandard2.0\EntriesSum2020.Domain.csprojAssemblyReference.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\obj\Debug\netstandard2.0\EntriesSum2020.Domain.AssemblyInfoInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\obj\Debug\netstandard2.0\EntriesSum2020.Domain.AssemblyInfo.cs
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\obj\Debug\netstandard2.0\EntriesSum2020.Domain.csproj.CoreCompileInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\obj\Debug\netstandard2.0\EntriesSum2020.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\AdventOfCode\EntriesSum2020\EntriesSum2020.Domain\obj\Debug\netstandard2.0\EntriesSum2020.Domain.pdb
