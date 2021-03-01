@@ -1,0 +1,9 @@
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\bin\Debug\netstandard2.0\FrogJmp.Domain.deps.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\bin\Debug\netstandard2.0\FrogJmp.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\bin\Debug\netstandard2.0\FrogJmp.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\obj\Debug\netstandard2.0\FrogJmp.Domain.csprojAssemblyReference.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\obj\Debug\netstandard2.0\FrogJmp.Domain.AssemblyInfoInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\obj\Debug\netstandard2.0\FrogJmp.Domain.AssemblyInfo.cs
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\obj\Debug\netstandard2.0\FrogJmp.Domain.csproj.CoreCompileInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\obj\Debug\netstandard2.0\FrogJmp.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogJmp\FrogJmp.Domain\obj\Debug\netstandard2.0\FrogJmp.Domain.pdb

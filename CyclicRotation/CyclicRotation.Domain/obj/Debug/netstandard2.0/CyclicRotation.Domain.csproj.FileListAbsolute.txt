@@ -1,0 +1,9 @@
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\bin\Debug\netstandard2.0\CyclicRotation.Domain.deps.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\bin\Debug\netstandard2.0\CyclicRotation.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\bin\Debug\netstandard2.0\CyclicRotation.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\obj\Debug\netstandard2.0\CyclicRotation.Domain.csprojAssemblyReference.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\obj\Debug\netstandard2.0\CyclicRotation.Domain.AssemblyInfoInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\obj\Debug\netstandard2.0\CyclicRotation.Domain.AssemblyInfo.cs
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\obj\Debug\netstandard2.0\CyclicRotation.Domain.csproj.CoreCompileInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\obj\Debug\netstandard2.0\CyclicRotation.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\CyclicRotation\CyclicRotation.Domain\obj\Debug\netstandard2.0\CyclicRotation.Domain.pdb

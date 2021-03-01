@@ -1,0 +1,9 @@
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\bin\Debug\netstandard2.0\FrogRiverOne.Domain.deps.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\bin\Debug\netstandard2.0\FrogRiverOne.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\bin\Debug\netstandard2.0\FrogRiverOne.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\obj\Debug\netstandard2.0\FrogRiverOne.Domain.csprojAssemblyReference.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\obj\Debug\netstandard2.0\FrogRiverOne.Domain.AssemblyInfoInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\obj\Debug\netstandard2.0\FrogRiverOne.Domain.AssemblyInfo.cs
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\obj\Debug\netstandard2.0\FrogRiverOne.Domain.csproj.CoreCompileInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\obj\Debug\netstandard2.0\FrogRiverOne.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\FrogRiverOne\FrogRiverOne.Domain\obj\Debug\netstandard2.0\FrogRiverOne.Domain.pdb

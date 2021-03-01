@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRtiELKinA7atMWeJa1e7EmSr2hGrAQdWw3cyOObStSuA8QF8oxLchqmnqdpNNyT63OBzAsZ49hcW2GxGSmfrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msdm\\OneDrive - GFT Technologies SE\\Documents\\Comodity\\OddOccurrencesInArray\\OddOccurrencesInArray.Domain\\OddOccurrencesInArray.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msdm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\msdm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

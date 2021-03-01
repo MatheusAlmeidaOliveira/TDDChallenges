@@ -1,0 +1,13 @@
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\bin\Debug\netcoreapp3.1\PermMissingElem.Domain.exe
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\bin\Debug\netcoreapp3.1\PermMissingElem.Domain.deps.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\bin\Debug\netcoreapp3.1\PermMissingElem.Domain.runtimeconfig.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\bin\Debug\netcoreapp3.1\PermMissingElem.Domain.runtimeconfig.dev.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\bin\Debug\netcoreapp3.1\PermMissingElem.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\bin\Debug\netcoreapp3.1\PermMissingElem.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\obj\Debug\netcoreapp3.1\PermMissingElem.Domain.csprojAssemblyReference.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\obj\Debug\netcoreapp3.1\PermMissingElem.Domain.AssemblyInfoInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\obj\Debug\netcoreapp3.1\PermMissingElem.Domain.AssemblyInfo.cs
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\obj\Debug\netcoreapp3.1\PermMissingElem.Domain.csproj.CoreCompileInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\obj\Debug\netcoreapp3.1\PermMissingElem.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\obj\Debug\netcoreapp3.1\PermMissingElem.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\PermMissingElem\PermMissingElem.Domain\obj\Debug\netcoreapp3.1\PermMissingElem.Domain.genruntimeconfig.cache

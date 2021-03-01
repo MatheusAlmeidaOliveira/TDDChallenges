@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IH7mN8rkWmXPhvrTOe+Bfg0jifXEoGG+Lwu1Q0YYI1Bjq/mlCkiEpdCssRh+Eu8WPc7KSNoBP3oecG4XkE3EiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msdm\\OneDrive - GFT Technologies SE\\Documents\\Comodity\\BinaryGap\\BinaryGap.Domain\\BinaryGap.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msdm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\msdm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

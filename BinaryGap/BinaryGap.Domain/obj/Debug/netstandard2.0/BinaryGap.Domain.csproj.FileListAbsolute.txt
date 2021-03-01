@@ -1,0 +1,9 @@
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\bin\Debug\netstandard2.0\BinaryGap.Domain.deps.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\bin\Debug\netstandard2.0\BinaryGap.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\bin\Debug\netstandard2.0\BinaryGap.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\obj\Debug\netstandard2.0\BinaryGap.Domain.csprojAssemblyReference.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\obj\Debug\netstandard2.0\BinaryGap.Domain.AssemblyInfoInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\obj\Debug\netstandard2.0\BinaryGap.Domain.AssemblyInfo.cs
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\obj\Debug\netstandard2.0\BinaryGap.Domain.csproj.CoreCompileInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\obj\Debug\netstandard2.0\BinaryGap.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\BinaryGap\BinaryGap.Domain\obj\Debug\netstandard2.0\BinaryGap.Domain.pdb

@@ -1,0 +1,9 @@
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\bin\Debug\netstandard2.0\OddOccurrencesInArray.Domain.deps.json
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\bin\Debug\netstandard2.0\OddOccurrencesInArray.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\bin\Debug\netstandard2.0\OddOccurrencesInArray.Domain.pdb
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\obj\Debug\netstandard2.0\OddOccurrencesInArray.Domain.csprojAssemblyReference.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\obj\Debug\netstandard2.0\OddOccurrencesInArray.Domain.AssemblyInfoInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\obj\Debug\netstandard2.0\OddOccurrencesInArray.Domain.AssemblyInfo.cs
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\obj\Debug\netstandard2.0\OddOccurrencesInArray.Domain.csproj.CoreCompileInputs.cache
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\obj\Debug\netstandard2.0\OddOccurrencesInArray.Domain.dll
+c:\Users\msdm\OneDrive - GFT Technologies SE\Documents\Comodity\OddOccurrencesInArray\OddOccurrencesInArray.Domain\obj\Debug\netstandard2.0\OddOccurrencesInArray.Domain.pdb
